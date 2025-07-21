@@ -1,0 +1,71 @@
+import React from 'react';
+import { motion } from 'framer-motion';
+import { Mail, Phone, Facebook, Twitter } from 'lucide-react';
+
+const ContactUs = () => {
+  return (
+    <motion.div
+      className="bg-white px-6 py-10 md:px-20 text-gray-800 shadow-xl rounded-2xl max-w-4xl mx-auto my-10"
+      initial={{ opacity: 0, y: 40 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.6 }}
+    >
+      <h2 className="text-3xl md:text-4xl font-bold mb-6 text-blue-700">
+        Contact Us
+      </h2>
+      <p className="mb-8 text-gray-600">
+        We'd love to hear from you. Whether it's a claim, quote request, or a question—reach out through any of the options below.
+      </p>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="flex items-start space-x-4">
+          <Mail className="text-blue-600 mt-1" />
+          <div>
+            <h4 className="font-semibold text-lg">Email Us</h4>
+            <p className="text-gray-600">Securetrustinsure@outlook.com</p>
+          </div>
+        </div>
+
+        <div className="flex items-start space-x-4">
+          <Phone className="text-green-600 mt-1" />
+          <div>
+            <h4 className="font-semibold text-lg">Call Us</h4>
+            <p className="text-gray-600">+1 (509)-518-8618</p>
+          </div>
+        </div>
+
+        <div className="flex items-start space-x-4">
+          <Facebook className="text-blue-800 mt-1" />
+          <div>
+            <h4 className="font-semibold text-lg">Facebook</h4>
+            <a
+              href="https://facebook.com/trustshieldinsurance"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              facebook.com/trustshieldinsurance
+            </a>
+          </div>
+        </div>
+
+        <div className="flex items-start space-x-4">
+          <Twitter className="text-sky-500 mt-1" />
+          <div>
+            <h4 className="font-semibold text-lg">Twitter</h4>
+            <a
+              href="https://twitter.com/trustshieldins"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sky-500 hover:underline"
+            >
+              @trustshieldins
+            </a>
+          </div>
+        </div>
+      </div>
+    </motion.div>
+  );
+};
+
+export default ContactUs;
