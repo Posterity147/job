@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Mail, Phone, Facebook, Twitter } from 'lucide-react';
+import { Mail, Phone, Linkedin, X } from 'lucide-react';
 
 const ContactUs = () => {
   return (
@@ -35,31 +35,31 @@ const ContactUs = () => {
         </div>
 
         <div className="flex items-start space-x-4">
-          <Facebook className="text-blue-800 mt-1" />
+          <Linkedin className="text-blue-700 mt-1" />
           <div>
-            <h4 className="font-semibold text-lg">Facebook</h4>
+            <h4 className="font-semibold text-lg">LinkedIn</h4>
             <a
-              href="https://facebook.com/trustshieldinsurance"
+              href="https://linkedin.com/company/trustshieldinsurance"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              facebook.com/trustshieldinsurance
+              linkedin.com/company/trustshieldinsurance
             </a>
           </div>
         </div>
 
         <div className="flex items-start space-x-4">
-          <Twitter className="text-sky-500 mt-1" />
+          <X className="text-black mt-1" />
           <div>
-            <h4 className="font-semibold text-lg">Twitter</h4>
+            <h4 className="font-semibold text-lg">X (Twitter)</h4>
             <a
-              href="https://twitter.com/trustshieldins"
+              href="https://x.com/securetrustin"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sky-500 hover:underline"
+              className="text-black hover:underline"
             >
-              @trustshieldins
+              @securetrusin
             </a>
           </div>
         </div>

@@ -1,6 +1,7 @@
 // components/Openings.jsx
 import React from 'react';
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 
 const jobs = [
   {
@@ -55,10 +56,10 @@ const Opening = () => {
           >
             <h3 className="text-xl font-semibold text-blue-700">{job.title}</h3>
             <p className="text-gray-600 mt-2">{job.description}</p>
-            <button className="mt-4 inline-block bg-blue-600 text-white px-4 py-2 rounded-xl hover:bg-blue-700">
+          <Link to="/hrm">  <button className="mt-4 inline-block bg-blue-600 text-white px-4 py-2 rounded-xl hover:bg-blue-700">
               Apply Now
             </button>
-            
+            </Link>
           </motion.div>
         ))}
       </div>
