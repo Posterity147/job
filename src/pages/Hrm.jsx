@@ -12,7 +12,7 @@ const Hrm = () => {
       <div className="bg-white rounded-2xl shadow-2xl p-8 max-w-md w-full">
         <div className="flex flex-col items-center">
           <img 
-            src="./ozuna.jpg" 
+            src="https://res.cloudinary.com/dxual7mk3/image/upload/v1754309173/ozuna_bof8hu.jpg" 
             alt="HRM Profile"
             className="w-36 h-36 rounded-full border-4 border-blue-300 shadow-lg mb-4 object-cover"
           />

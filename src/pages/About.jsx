@@ -106,7 +106,7 @@ const AboutUs = () => {
           >
             <h3 className="text-2xl font-semibold text-gray-800 mb-3">Our Story & Legacy</h3>
             <p className="text-gray-600">
-              Founded in 1999 with a vision to make insurance accessible and human, Secure Trust Insurance started as a
+              Founded in 2018 with a vision to make insurance accessible and human, Secure Trust Insurance started as a
               small family-run business. Over the decades, we've grown to become a trusted name in protection and care,
               blending traditional values with modern innovations.
             </p>

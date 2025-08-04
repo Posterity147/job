@@ -26,7 +26,7 @@ const Navbar = () => {
           transition={{ duration: 0.6 }}
         >
           <Link to="/">
-            <img className="w-30 h-10" src="/secure.png" alt="Logo" />
+            <img className="w-30 h-10" src="https://res.cloudinary.com/dxual7mk3/image/upload/v1754309309/secure_e9p8ua.png" alt="Logo" />
           </Link>
         </motion.h1>
         <p className='text-white'><i>SecureTrustInsure</i></p>
