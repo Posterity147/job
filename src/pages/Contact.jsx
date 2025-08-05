@@ -44,7 +44,7 @@ const ContactUs = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              linkedin.com/Delvin Lang
+              Delvin Lang
             </a>
           </div>
         </div>
