@@ -22,7 +22,7 @@ const ContactUs = () => {
           <Mail className="text-blue-600 mt-1" />
           <div>
             <h4 className="font-semibold text-lg">Email Us</h4>
-            <p className="text-gray-600">Securetrustinsure@outlook.com</p>
+            <p className="text-gray-600">info@securetrustsinsure.site</p>
           </div>
         </div>
 
@@ -39,12 +39,12 @@ const ContactUs = () => {
           <div>
             <h4 className="font-semibold text-lg">LinkedIn</h4>
             <a
-              href="https://linkedin.com/company/trustshieldinsurance"
+              href="http/Delvin Lang"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              linkedin.com/company/trustshieldinsurance
+              linkedin.com/Delvin Lang
             </a>
           </div>
         </div>

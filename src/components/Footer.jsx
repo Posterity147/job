@@ -19,7 +19,7 @@ const Footer = () => {
         <div>
           <h2 className="text-2xl font-bold mb-4">SecureLife Insurance</h2>
           <p className="text-sm text-gray-200">
-            Providing peace of mind through dependable insurance services for over 25 years. Protecting lives, assets, and futures — because you matter.
+            Providing peace of mind through dependable insurance services for over 7+ years. Protecting lives, assets, and futures — because you matter.
           </p>
         </div>
 

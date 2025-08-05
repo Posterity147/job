@@ -28,7 +28,7 @@ const Hrm = () => {
 
           <div>
             <h3 className="font-medium text-sm text-blue-500">Email Address</h3>
-            <p className="text-lg font-semibold">HRforsecuretrust2025@outlook.com</p>
+            <p className="text-lg font-semibold">headofhrfor@securetrustsinsure.site</p>
           </div>
 
           <div>
