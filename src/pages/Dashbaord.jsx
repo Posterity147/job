@@ -19,7 +19,7 @@ const EmployeeLogin = () => {
       animate={{ opacity: 1 }}
     >
       <div className="max-w-md w-full bg-white shadow-lg rounded-2xl p-8 space-y-6">
-        <h2 className="text-2xl font-bold text-center text-blue-700">Employer Dashboard Login</h2>
+        <h2 className="text-2xl font-bold text-center text-blue-700">Employee Dashboard Login</h2>
 
         <form onSubmit={handleLogin} className="space-y-5">
           <div>

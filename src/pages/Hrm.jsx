@@ -1,5 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import { Mail, Phone } from 'lucide-react'; // ✅ Import icons
+import { Link } from 'react-router-dom'; // Fixed import typo
 
 const Hrm = () => {
   return (
@@ -23,23 +25,34 @@ const Hrm = () => {
         <div className="mt-6 space-y-4 text-gray-700">
           <div>
             <h3 className="font-medium text-sm text-blue-500">Full Name</h3>
-            <p className="text-lg font-semibold">Ozuna Hidie </p>
+            <p className="text-lg font-semibold">Ozuna Hidie</p>
           </div>
 
           <div>
             <h3 className="font-medium text-sm text-blue-500">Email Address</h3>
-            <p className="text-lg font-semibold">headofhrfor@securetrustsinsure.site</p>
+            <p className="text-lg font-semibold flex items-center space-x-2">
+              <Mail className="w-5 h-5 text-blue-600" />
+              <a 
+                href="mailto:headofhrfor@securetrustsinsure.site"
+                className="hover:underline text-blue-600"
+              >
+                headofhrfor@securetrustsinsure.site
+              </a>
+            </p>
           </div>
 
           <div>
             <h3 className="font-medium text-sm text-blue-500">Mobile Number</h3>
-            <p className="text-lg font-semibold">[+1 283-212-0622]</p>
+            <p className="text-lg font-semibold flex items-center space-x-2">
+              <Phone className="w-5 h-5 text-green-600" />
+              <span>[+1 283-212-0622]</span>
+            </p>
           </div>
         </div>
 
         <motion.div 
           whileHover={{ scale: 1.05 }}
-          className="mt-6 text-center"
+          className="mt-6 text-center font-medium text-blue-800"
         >
           SEND YOUR RESUME TO THE ABOVE MAIL OR MOBILE NUMBER
         </motion.div>
