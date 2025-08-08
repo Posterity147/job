@@ -54,12 +54,12 @@ const ContactUs = () => {
           <div>
             <h4 className="font-semibold text-lg">X (Twitter)</h4>
             <a
-              href="https://x.com/securetrustin"
+              href="https://x.com/securetrustsin"
               target="_blank"
               rel="noopener noreferrer"
               className="text-black hover:underline"
             >
-              @securetrusin
+              @securetrustsin
             </a>
           </div>
         </div>
