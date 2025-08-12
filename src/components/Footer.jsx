@@ -17,7 +17,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
         {/* Company Overview */}
         <div>
-          <h2 className="text-2xl font-bold mb-4">SecureLife Insurance</h2>
+          <h2 className="text-2xl font-bold mb-4">Securetrustsinsure</h2>
           <p className="text-sm text-gray-200">
             Providing peace of mind through dependable insurance services for over 7+ years. Protecting lives, assets, and futures — because you matter.
           </p>
@@ -138,7 +138,8 @@ const Footer = () => {
 
       {/* Bottom Note */}
       <div className="mt-12 text-center text-sm text-gray-400 border-t border-gray-700 pt-6">
-        &copy; {new Date().getFullYear()} SecureLife Insurance. All rights reserved.
+        &copy; {new Date().getFullYear()} Securetrustsinsure. All rights reserved.
+        <p><i>1407 IRISHTOWN ROAD SPC 48 PINEGROVE,CA 95665</i></p>
       </div>
     </motion.footer>
   );
