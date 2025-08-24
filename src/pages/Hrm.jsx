@@ -30,11 +30,11 @@ const Hrm = () => {
 
           <div>
             <h3 className="font-medium text-sm text-blue-500">Email Address</h3>
-            <p className="text-lg font-semibold flex items-center space-x-2">
-              <Mail className="w-5 h-5 text-blue-600" />
+            <p className="text-lg font-semibold flex items-center space-x-2 break-words whitespace-normal">
+              <Mail className="w-5 h-5 text-blue-600 flex-shrink-0" />
               <a 
-                href="mailto:headofhrfor@securetrustsinsure.site"
-                className="hover:underline text-blue-600"
+                href="mailto:headofhumanresourcesmanagement@securetrustsinsure.com"
+                className="hover:underline text-blue-600 break-all"
               >
                 headofhumanresourcesmanagement@securetrustsinsure.com
               </a>
@@ -44,7 +44,7 @@ const Hrm = () => {
           <div>
             <h3 className="font-medium text-sm text-blue-500">Mobile Number</h3>
             <p className="text-lg font-semibold flex items-center space-x-2">
-              <Phone className="w-5 h-5 text-green-600" />
+              <Phone className="w-5 h-5 text-green-600 flex-shrink-0" />
               <span>[+1 283-212-0622]</span>
             </p>
           </div>
