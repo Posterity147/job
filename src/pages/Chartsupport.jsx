@@ -105,8 +105,8 @@ const LiveChatSupportInfo = () => (
       <h3 className="text-xl font-semibold mb-3 text-red-700">Read More 📚</h3>
       <ul className="list-disc pl-6 text-red-600 space-y-2">
         <li>
-          <a href="https://www.zendesk.com/blog/live-chat-support/" target="_blank" rel="noopener noreferrer" className="underline">
-            Zendesk: Mastering Live Chat Support
+          <a href="https://cdn2.hubspot.net/hubfs/543330/EBooks/How-To%20Guide-Live%20Chat%20Customer%20Support.pdf?utm_source=chatgpt.com/" target="_blank" rel="noopener noreferrer" className="underline">
+            How-To Guide: Live Chat Customer Support by Olark
           </a>
         </li>
         <li>
