@@ -29,7 +29,7 @@ const Navbar = () => {
             />
           </Link>
           <span className="text-white text-lg font-medium italic tracking-wide">
-            SecureTrustInsure
+            SecureTrustsInsure
           </span>
         </div>
 
