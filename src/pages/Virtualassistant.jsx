@@ -99,13 +99,13 @@ const VirtualAssistant= () => (
       <h3 className="text-xl font-semibold mb-3 text-red-700">Read More 📚</h3>
       <ul className="list-disc pl-6 text-red-600 space-y-2">
         <li>
-          <a href="https://www.freelancer.com/articles/skills/virtual-assistant-job-description" target="_blank" rel="noopener noreferrer" className="underline">
-            Freelancer: Virtual Assistant Job Description
+          <a href="https://20four7va.com/wp-content/uploads/2023/01/20four7va-va-skills-masterlist-compressed.pdf?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" className="underline">
+            20four7va: Virtual Assistant Skills Masterlist
           </a>
         </li>
         <li>
-          <a href="https://blog.hubstaff.com/virtual-assistant-skills/" target="_blank" rel="noopener noreferrer" className="underline">
-            Hubstaff: 13 Virtual Assistant Skills You Need to Succeed
+          <a href="https://sortedvirtualassistance.co.za/wp-content/uploads/2024/05/How-to-become-A-Virtual-Assistant-Guide.pdf?utm_source=chatgpt.com/" target="_blank" rel="noopener noreferrer" className="underline">
+            How to Become a Virtual Assistant - Sorted Virtual Assistance
           </a>
         </li>
       </ul>

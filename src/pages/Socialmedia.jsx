@@ -105,13 +105,13 @@ const SocialMedia = () => (
       <h3 className="text-xl font-semibold mb-3 text-red-700">Read More 📚</h3>
       <ul className="list-disc pl-6 text-red-600 space-y-2">
         <li>
-          <a href="https://blog.hubspot.com/marketing/social-media-marketing" target="_blank" rel="noopener noreferrer" className="underline">
-            HubSpot: Social Media Marketing Guide
+          <a href="https://socialmarketingwriting.com/wp-content/uploads/2016/04/socialmarketingwriting.com-The-Complete-Guide-to-Being-a-Successful-Social-Media-Manager.pdf?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" className="underline">
+            The Complete Guide to Being a Successful Social Media Manager
           </a>
         </li>
         <li>
-          <a href="https://sproutsocial.com/insights/social-media-marketing-strategy/" target="_blank" rel="noopener noreferrer" className="underline">
-            Sprout Social: Building a Social Strategy
+          <a href="https://carta.fiu.edu/gsc-creative/wp-content/uploads/sites/46/2020/02/Social-Content-and-Media-Planning-eBook.pdf?utm_source=chatgpt.com/" target="_blank" rel="noopener noreferrer" className="underline">
+            Social Content and Media Planning -
           </a>
         </li>
       </ul>

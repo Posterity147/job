@@ -103,18 +103,18 @@ const CustomerService = () => (
       <h3 className="text-xl font-semibold mb-3 text-red-700">Read More 📚</h3>
       <ul className="list-disc pl-6 text-red-600 space-y-2">
         <li>
-          <a href="https://www.zendesk.com/blog/customer-service-skills/" target="_blank" rel="noopener noreferrer" className="underline">
-            Zendesk: Top Customer Service Skills
+          <a href="https://www.trainingsolutions.com/pdf/outstanding.pdf?utm_source=chatgpt.com/" target="_blank" rel="noopener noreferrer" className="underline">
+            Outstanding Customer Service: A Guide to Winning and Keeping Customers
           </a>
         </li>
         <li>
-          <a href="https://www.helpscout.com/blog/customer-service-skills/" target="_blank" rel="noopener noreferrer" className="underline">
-            HelpScout: The 15 Most Important Customer Service Skills
+          <a href="https://www.uaex.uada.edu/business-communities/strategic-planning/Customer-Service-Handbook.pdf?utm_source=chatgpt.com/" target="_blank" rel="noopener noreferrer" className="underline">
+            Customer Service Handbook - University of Arkansas
           </a>
         </li>
         <li>
-          <a href="https://www.nice.com/engage/blog/how-to-improve-customer-service-2084/" target="_blank" rel="noopener noreferrer" className="underline">
-            NICE: How to Improve Your Customer Service Experience
+          <a href="https://www.insightsquared.com/wp-content/uploads/downloads/2015/07/Shep-Hyken-eBook-v5.pdf?utm_source=chatgpt.com/" target="_blank" rel="noopener noreferrer" className="underline">
+            The Cult of the Customer: Create an Amazing Customer Experience that Turns Satisfied Customers into Customer Evangelists
           </a>
         </li>
       </ul>

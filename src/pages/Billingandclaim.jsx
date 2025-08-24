@@ -98,18 +98,18 @@ const BillingClaim = () => (
       <h3 className="text-xl font-semibold mb-3 text-red-700">Read More 📚</h3>
       <ul className="list-disc pl-6 text-red-600 space-y-2">
         <li>
-          <a href="https://www.investopedia.com/terms/i/insurance-claim.asp" target="_blank" rel="noopener noreferrer" className="underline">
-            Investopedia: Understanding Insurance Claims
+          <a href="https://www.iii.org/sites/default/files/docs/pdf/Insurance_Handbook_20103.pdf?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" className="underline">
+            A guide to insurance basics - Insurance Information Institute
           </a>
         </li>
         <li>
-          <a href="https://www.verywellhealth.com/what-is-medical-billing-2317141" target="_blank" rel="noopener noreferrer" className="underline">
-            Verywell Health: Medical Billing Basics
+          <a href="https://www.scribd.com/document/788687696/Download-full-eBook-PDF-Understanding-Health-Insurance-A-Guide-to-Billing-and-Reimbursement-15th-Edition-ebook-all-chapters?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" className="underline">
+            Understanding Health Insurance: A Guide to Billing and Reimbursement (15th Edition)
           </a>
         </li>
         <li>
-          <a href="https://www.insuranceopedia.com/definition/168/billing" target="_blank" rel="noopener noreferrer" className="underline">
-            Insuranceopedia: What is Billing in Insurance?
+          <a href="https://www.in.gov/doe/files/Medicaid-BillingTool-Kit-23rd-Edition_July2021.pdf?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" className="underline">
+            Medical Billing Tool Kit 
           </a>
         </li>
       </ul>

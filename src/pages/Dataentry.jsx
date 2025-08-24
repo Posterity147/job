@@ -96,13 +96,13 @@ const DataEntry= () => (
       <h3 className="text-xl font-semibold mb-3 text-red-700">Read More 📚</h3>
       <ul className="list-disc pl-6 text-red-600 space-y-2">
         <li>
-          <a href="https://www.thebalancemoney.com/data-entry-job-description-2061862" target="_blank" rel="noopener noreferrer" className="underline">
-            The Balance: Data Entry Job Description and Duties
+          <a href="https://www.4shared.com/office/RHaH6tPZku/Data_Entry_Skills.html?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" className="underline">
+            Data Entry Skills and Tips - 4shared
           </a>
         </li>
         <li>
-          <a href="https://www.upwork.com/resources/data-entry-skills" target="_blank" rel="noopener noreferrer" className="underline">
-            Upwork: Data Entry Skills for Freelancers
+          <a href="https://www.scribd.com/document/841318713/Data-entry-notes?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" className="underline">
+            Data Entry Notes - Scribd
           </a>
         </li>
       </ul>
