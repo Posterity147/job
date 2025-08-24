@@ -36,7 +36,7 @@ const Hrm = () => {
                 href="mailto:headofhrfor@securetrustsinsure.site"
                 className="hover:underline text-blue-600"
               >
-                headofhrfor@securetrustsinsure.site
+                headofhumanresourcesmanagement@securetrustsinsure.com
               </a>
             </p>
           </div>
