@@ -110,18 +110,18 @@ const LiveChatSupportInfo = () => (
           </a>
         </li>
         <li>
-          <a href="https://www.tidio.com/blog/live-chat-support/" target="_blank" rel="noopener noreferrer" className="underline">
-            Tidio: Why You Need Live Chat Support
+          <a href="https://argyleforum.com/wp-content/uploads/2020/06/Live_Chat_Handbook_Moxie1.pdf?utm_source=chatgpt.com/" target="_blank" rel="noopener noreferrer" className="underline">
+            Live Chat Handbook by Moxie Software
           </a>
         </li>
         <li>
-          <a href="https://www.livechat.com/success/live-chat-support/" target="_blank" rel="noopener noreferrer" className="underline">
-            LiveChat.com: Success Tips for Agents
+          <a href="https://www.userlike.com/en/blog/live-chat-support?utm_source=chatgpt.com/" target="_blank" rel="noopener noreferrer" className="underline">
+            Complete Beginner Guide to Live Chat Support by Userlike
           </a>
         </li>
         <li>
-          <a href="https://freshdesk.com/customer-support/live-chat-software" target="_blank" rel="noopener noreferrer" className="underline">
-            Freshdesk: Live Chat Best Practices
+          <a href="https://www.slideshare.net/slideshow/comprehensive-guide-to-live-chat-support-pdf/270799404?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" className="underline">
+            Comprehensive Guide to Live Chat Support by Kayako
           </a>
         </li>
       </ul>
