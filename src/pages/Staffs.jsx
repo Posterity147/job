@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const staffMembers = [
   {
-    name: 'John Doe',
+    name: 'Delvin Lang',
     title: 'Chief Executive Officer (CEO)',
     image: './ceo.jpg',
     details: 'Visionary leader with 40+ years in the insurance industry, driving growth and innovation.',
